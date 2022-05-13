@@ -11,3 +11,6 @@ This new assignment consists of three technical analysis deliverables. You will 
   * Deliverable 1: Add Tectonic Plate Data
   * Deliverable 2: Add Major Earthquake Data
   * Deliverable 3: Add an Additional Map
+
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/99268646/168343049-dc453892-b3e9-426f-a169-58ac2c66f62f.png">
+
